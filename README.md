@@ -23,7 +23,7 @@ This example was designed as a **technical test task** to demonstrate:
 ## Usage
 
 ```bash
-python rt_video_multithread.py
+python multithreaded_video_capture.py
 ```
 
 - Press **`q`** or **`ESC`** to stop the program.
