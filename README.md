@@ -31,7 +31,7 @@ python multithreaded_video_capture.py
 ---
 
 ## Execution Flow
- ![Execution Flow](Docs/Execution Flow.drawio.png)
+ ![Execution Flow](Execution_Flow_drawio.png)
 ---
 
 ## Synchronization Mechanisms
